@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { todoList, add, remove, done } from "./todo-module";
+import { todoList, add, remove, done } from "./todos";
 
 function App() {
   //1. skapa todolist state
